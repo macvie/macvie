@@ -1,0 +1,29 @@
+    {{ partial "head.html" . }}
+    <body>
+        {{ partial "sidebar.html" . }}
+        <div class="content-wrapper">
+            <div class="content-wrapper__inner">
+                {{ range .Data.Pages.GroupByDate "2006" }}
+                <!--<h2>{{ .Key }} XX</h2>-->
+                <ul id="list">
+                    {{range .Pages }}
+                    <article class="post">
+                        <header>
+                            <h2><a href="{{ .Permalink }}">{{ .Title }} {{ if .Draft }}:: DRAFT{{end}}</a> </h2>
+                            <!--<div class="post-meta">{{ .Date.Format "Mon, Jan 2, 2006" }} - Read in {{ .ReadingTime }} Min </div>-->
+                        </header>
+                        <p><small>{{ .Description }}</small></p>
+
+                        {{ .Content }}
+                        <!--<footer>-->
+                            <!--<a href='{{ .Permalink }}'><nobr>Listen</nobr></a>-->
+                        <!--</footer>-->
+                    </article>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </div>
+        </div>
+    </body>
+    {{ partial "script.html" .}}
+</html>

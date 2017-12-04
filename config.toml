@@ -1,0 +1,17 @@
+baseurl = "http://macvie.eu"
+languageCode = "en-us"
+title = "MacVie"
+theme = "hugouno"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Mac Wilga"
+  email = "music@mavie.eu"
+  facebook = "MusicMacVie"
+  gallery = "https://www.facebook.com/media/set/?set=a.1155479121241868.1073741828.1155472637909183&type=1&l=050689f5ca"
+  youtube = "channel/UCHWuMPoH9VAPELzczHuCRJA"
+  soundcloud = "macvie"
+  description = "Es gibt Töne, die den Raum vergrössern, wenn sie erklingen"
+  cover = "/images/background3.jpg"
