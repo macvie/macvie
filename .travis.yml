@@ -17,6 +17,8 @@ deploy:
   provider: pages
   skip_cleanup: true
   local_dir: public
+  repo: macvie/macvie.github.io
+  target_branch: master
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   on:
     branch: master
