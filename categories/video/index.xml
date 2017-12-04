@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Video on MacVie </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://macvie.eu/categories/video/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 28 Nov 2016 13:46:06 &#43;0200</updated>
+    
+    <item>
+      <title>Il est venu le temps des cathédrales (Cover, feat. Jean Michel on piano)</title>
+      <link>http://macvie.eu/post/cathedrales/</link>
+      <pubDate>Mon, 28 Nov 2016 13:46:06 &#43;0200</pubDate>
+      
+      <guid>http://macvie.eu/post/cathedrales/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/0yuCh1XIvFQ?ecver=1&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Tags on MacVie </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://macvie.eu/tags/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sun, 09 Apr 2017 19:21:58 &#43;0200</updated>
+    
+    <item>
+      <title></title>
+      <link>http://macvie.eu/tags/</link>
+      <pubDate>Sun, 09 Apr 2017 19:21:58 &#43;0200</pubDate>
+      
+      <guid>http://macvie.eu/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deutsch</title>
+      <link>http://macvie.eu/tags/deutsch/</link>
+      <pubDate>Sun, 02 Apr 2017 18:46:55 &#43;0200</pubDate>
+      
+      <guid>http://macvie.eu/tags/deutsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>http://macvie.eu/tags/english/</link>
+      <pubDate>Sat, 18 Nov 2017 18:46:55 &#43;0200</pubDate>
+      
+      <guid>http://macvie.eu/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Français</title>
+      <link>http://macvie.eu/tags/fran%C3%A7ais/</link>
+      <pubDate>Mon, 28 Nov 2016 13:46:06 &#43;0200</pubDate>
+      
+      <guid>http://macvie.eu/tags/fran%C3%A7ais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polnish</title>
+      <link>http://macvie.eu/tags/polnish/</link>
+      <pubDate>Sat, 18 Nov 2017 18:46:55 &#43;0200</pubDate>
+      
+      <guid>http://macvie.eu/tags/polnish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
