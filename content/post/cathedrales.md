@@ -1,10 +1,10 @@
 +++
 Categories = ["video"]
-Description = ""
+Description = "(cover, feat. Jean Michel on piano)"
 Tags = ["français"]
 date = "2016-11-28T13:46:06+02:00"
 menu = "main"
-title = "Il est venu le temps des cathédrales (Cover, feat. Jean Michel on piano)"
+title = "Il est venu le temps des cathédrales"
 
 +++
 
