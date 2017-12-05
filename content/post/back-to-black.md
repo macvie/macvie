@@ -1,6 +1,6 @@
 +++
 date = "2017-11-18T18:46:55+02:00"
-title = "Back to black / Crazy in love "
+title = "Back to black / Crazy in love (mash-up)"
 menu = "main"
 Categories = ["kitchen"]
 Tags = ["english"]

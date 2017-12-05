@@ -1,5 +1,5 @@
 +++
-title = "About Me & Influences"
+title = "About Me & My Influences"
 Categories = [""]
 Tags = [""]
 Description = ""
@@ -14,7 +14,7 @@ date = "2017-04-09T19:21:58+02:00"
 
 Currently based in Berlin, **MacVie** is a singer-songwriter in the making. 
 
-His songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations come from different genres coming from rock, pop rock, pop, blues, Nordic jazz, chansons françaises and deutsche Pop, and even from different national the Voice editions, from the Eurovision Song Contest or, last but not least, from various youtube published music sessions –– like “Sofar Sounds” and “Sofar Global”, “Mahogany sessions”, “Berlin Sessions”, "Vevo dscvr”, just to name a few –– some of them are quite old and still make up his daily playlists. Those, of course, evolve as much as the artist himself.
+His songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations come from different genres coming from rock, pop rock, pop, blues, Nordic jazz, chansons françaises and deutsche Pop, and even from different national the Voice editions, from the Eurovision Song Contest or, last but not least, from various youtube published music sessions –– like **“Sofar Sounds”**, **“Mahogany Sessions”**, **“Berlin Sessions”** or **"Vevo Dscvr”**, just to name a few –– some of them are quite old and still make up his daily playlists. Those, of course, evolve as much as the artist himself.
 
 Although late, the journey has finally began and continues.
 
