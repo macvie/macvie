@@ -10,7 +10,7 @@ install:
 
 # Build the website
 script:
-  ./hugo && cp CNAME public/
+  ./hugo --verbose ; cp CNAME public/ ; ls public/ ; ls public/post/ ; echo "ok"
 
 # Deploy to GitHub pages
 deploy:
