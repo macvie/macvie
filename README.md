@@ -6,7 +6,7 @@
 
 ```
 +++
-date = "20yy-mm-ddT18:46:55+02:00"
+date = "2017-mm-ddT18:46:55+02:00"
 title = "TITRE_GOES_HERE"
 menu = "main"
 Categories = ["kitchen"]

@@ -1,5 +1,5 @@
 +++
-date = "2018-12-08T18:46:55+02:00"
+date = "2017-12-08T18:46:55+02:00"
 title = "Bis gleich (cover)"
 menu = "main"
 Categories = ["kitchen"]
