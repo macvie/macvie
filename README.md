@@ -1,8 +1,7 @@
 # macvie.eu
 
 
-
-[Add song](https://github.com/macvie/macvie/new/master/content/post)
+To add a song, copy this
 
 ```
 +++
@@ -18,5 +17,11 @@ Description = "DESCRIPTION_GOES_HERE"
 YOUTUBE/SOUNDCLOUD embedded code goes here
 
 ```
+
+[and paste it here](https://github.com/macvie/macvie/new/master/content/post)
+
+Make sure the date is not in the future!!!
+
+The possible values for Categories are "kitchen", "audio", "video"
 
 See: [Mastering markdown](https://guides.github.com/features/mastering-markdown)
