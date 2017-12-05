@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-hugo server -w
+/usr/local/bin/hugo  server -w
