@@ -4,7 +4,7 @@ title = "Manchmal wissen wir nicht (original)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["deutsch"]
-Description = "MACVIE, Manchmal wissen wir nicht (original, raw mix)"
+Description = "MACVIE, Manchmal wissen wir nicht (original, raw mix/teaser)"
 
 +++
 
