@@ -16,12 +16,11 @@ Currently based in Berlin, **MacVie** is a singer-songwriter in the making.
 
 His songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations come from different genres coming from **Pop**, **Rock**, **Pop Rock**, **Blues**, **Nordic Jazz**, **Chansons françaises** and **Deutsch-Pop**, and even from different national **the Voice** editions, from the Eurovision Song Contest or, last but not least, from various youtube published music sessions –– like **“Sofar Sounds”**, **“Mahogany Sessions”**, **“Berlin Sessions”** or **"Vevo Dscvr”**, just to name a few –– some of them are quite old and still make up his daily playlists. Those, of course, evolve as much as the artist himself.
 
-Although late, the journey has finally began and continues.
-
 
 
 
 And of course, there have been many loves in between. Music, however, was my first one and, who knows, might as well remain the last. Not unusual, young, it hit me as an unexpected storm full of thunders and lightnings. Later, it followed me here and there through different stages in life, once actively with the band **The Holy Ghost** during the university time in Potsdam and few concerts on the university stage. Since then, it has constantly accompanied my European odyssey until late 2016 when it hit me again but hard. The consequence has been that although late––albeit not too late because for music it is never too late––I want to sing more and better in order to reach myself and then, why not if it happens, some other people as well. 
+
 
 
  
