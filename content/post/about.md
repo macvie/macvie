@@ -62,7 +62,7 @@ Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak **Republika/Obw
 **GLOBAL / INTERNATIONAL** (EN):
 ----
 
-Of course, the are also songs that have had global impact. Hereto belong songs of the British female singers **Adele** *(2013-17)*, **Jessie J.** *(2013-17)* or **Amy Winehouse** *(2014-2016)*. There have also been a number of rock bands, among them for instance the **Queen** *(1998-2007)*, the guitarist **Jimi Hendrix** *(1995-2009)*, the Swedish popstar **Sara Larsson** *(2015-17)* with some of her hits and few others. New comers and even not yet known singers and songwriters are there as well, as for instance the young female Norvegian artist **Inger Nordvik** *(2017)* or the German-Dutch Duo **Nosoyo** *(2017)*. See the EN/INT playlist: 
+Of course, the are also songs that have had global impact. Hereto belong songs of the British female singers **Adele** *(2013-17)*, **Jessie J.** *(2013-17)* or **Amy Winehouse** *(2014-2016)*. There have also been a number of rock bands, among them for instance the **Queen** *(1998-2007)*, the guitarist **Jimi Hendrix** *(1995-2009)*, the Swedish popstar **Sara Larsson** *(2015-17)* with some of her hits and few others. New comers and even not yet known singers and songwriters are there as well, as for instance the young female Norvegian artist **Inger Nordvik** *(2017)* or the Dutch-German Duo **Nosoyo** *(2017)*. See the EN/INT playlist: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAxJBxrXwPyyJ8fWJpRhAwhp" frameborder="0" allowfullscreen></iframe>
 
