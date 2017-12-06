@@ -19,12 +19,12 @@ His songs and compositions will look for a pop-rock sound with appealing melodie
 
 
 
-And of course, there have been many loves in between. Music, however, was my first one and, who knows, might as well remain the last. Not unusual, young, it hit me as an unexpected storm full of thunders and lightnings. Later, it followed me here and there through different stages in life, once actively with the band **The Holy Ghost** during the university time in Potsdam and few concerts on the university stage. Since then, it has constantly accompanied my European odyssey until late 2016 when it hit me again but hard. The consequence has been that although late––albeit not too late because for music it is never too late––I want to sing more and better in order to reach myself and then, why not if it happens, some other people as well. 
+And of course, there have been many loves in between. Music, however, was the first one and, who knows, might as well remain the last. Not unusual, when young, it hit me as an unexpected storm full of thunders and lightnings. Later, it followed me here and there through different stages in life, once actively with the band **The Holy Ghost** during the university time in Potsdam and few concerts on the university stage. Since then, it has constantly accompanied my European odyssey until late 2016 when it hit me again but hard. The consequence has been that although late––albeit not too late because for music it is never too late––I now want to sing more and better in order to somehow reach myself and then, why not if it happens, some other people as well. 
 
 
 
  
-MacVie's musical influences come from across different genres and various geographical locations. Sometimes they come and go. Sometimes they stay, and even if they go, they may as well come back again. In this way, many good songs, often exceptional voices and also interesting ways of singing have been inspiring for me over the years: 
+MacVie's musical influences come from across different genres and various geographical locations. Sometimes they come and go. Sometimes they stay, and even if they go, they may as well come back again. In this way, many good songs, often exceptional voices and also interesting ways of singing, have been inspiring for me over the years: 
 
 From **SWEDEN** (SE/Scandinavian):
 ----
