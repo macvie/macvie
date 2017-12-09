@@ -1,10 +1,10 @@
 +++
 Categories = ["video"]
-Description = "(cover, feat. Jean Michel on piano)"
+Description = "(Notre Dame de Paris cover, feat. JM Fayard on piano)"
 Tags = ["français"]
 date = "2016-11-28T13:46:06+02:00"
 menu = "main"
-title = "Il est venu le temps des cathédrales (cover)"
+title = "Le temps des cathédrales (cover)"
 
 +++
 
