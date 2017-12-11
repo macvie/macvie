@@ -4,7 +4,7 @@ Description = "(MacVie - Sacre coeur, Tina Dico cover, feat. Ioannis, on guitar)
 Tags = ["français"]
 date = "2017-12-10T13:46:06+02:00"
 menu = "main"
-title = "Sacre coeur (Tina Dico cover)"
+title = "Sacre coeur (cover)"
 
 +++
 
