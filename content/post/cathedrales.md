@@ -1,6 +1,6 @@
 +++
 Categories = ["video"]
-Description = "(Notre Dame de Paris cover, feat. JM Fayard on piano)"
+Description = "(MacVie - Notre Dame de Paris cover, feat. JM Fayard on piano)"
 Tags = ["français"]
 date = "2016-11-28T13:46:06+02:00"
 menu = "main"
