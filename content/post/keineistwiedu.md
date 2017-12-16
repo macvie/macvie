@@ -8,13 +8,4 @@ Description = "(MacVie - Gregor Meyle cover, Smögen, Westschweden)"
 +++
 
 
-
-...
-coming soon 
-... 
-
-
-
-
-
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5VTxzoCATI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
