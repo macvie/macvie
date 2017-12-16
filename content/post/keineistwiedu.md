@@ -1,6 +1,6 @@
 +++
 Categories = ["video"]
-Description = "(MacVie - Keine ist wie du Gregor Meyle cover, Smögen, Westschweden, 02.07.2016"
+Description = "(MacVie - Gregor Meyle cover, Smögen, Westschweden)"
 Tags = ["français"]
 date = "2017-12-15T13:45:06+02:00"
 menu = "main"
