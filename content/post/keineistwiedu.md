@@ -8,4 +8,4 @@ title = "Keine ist wie du (cover) "
 +++
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5VTxzoCATI" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q5VTxzoCATI?rel=0&amp;controls=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
