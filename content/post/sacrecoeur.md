@@ -1,6 +1,6 @@
 +++
 Categories = ["video"]
-Description = "(MacVie - Tina Dico cover, feat. Ioannis on guitar)"
+Description = "(MacVie - Tina Dico cover, feat. Ioannis on guitar, Berlin)"
 Tags = ["français"]
 date = "2017-12-10T13:45:06+02:00"
 menu = "main"
