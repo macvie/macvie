@@ -4,7 +4,7 @@ title = "Back to black / Crazy in love (mash-up)"
 menu = "main"
 Categories = ["kitchen"]
 Tags = ["english"]
-Description = "MACVIE, Back to black / Crazy in love (A. Winehouse / Beyoncé Mash-up ǀ KT-GQ session)"
+Description = "MacVie, Back to black / Crazy in love (A. Winehouse / Beyoncé Mash-up ǀ KT-GQ session)"
 
 +++
 
