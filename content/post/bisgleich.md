@@ -4,7 +4,7 @@ title = "Bis gleich (cover)"
 menu = "main"
 Categories = ["kitchen"]
 Tags = ["english"]
-Description = "MACVIE, Bis gleich (Ayke Witt cover, KT-GQ session)"
+Description = "MACVIE, Bis gleich (Ayke Witt cover ǀ KT-GQ session)"
 +++
 
 
