@@ -4,7 +4,7 @@ title = "I cannot deny - blues for you (original)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "(MacVie - I cannot deny, blues for you (original 2009, 2016)"
+Description = "(MacVie - I cannot deny, blues for you ǀ original 2009, 2016)"
 +++
 
 
