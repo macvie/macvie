@@ -4,7 +4,7 @@ title = "Szczęśliwej drogi już czas (cover)"
 menu = "main"
 Categories = ["kitchen"]
 Tags = ["polnish"]
-Description = "MACVIE, Szczęśliwej drogi już czas (VOX cover, KT-GQ session)"
+Description = "MACVIE, Szczęśliwej drogi już czas (VOX cover ǀ KT-GQ session)"
 
 +++
 
