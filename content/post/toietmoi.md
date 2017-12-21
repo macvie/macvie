@@ -4,7 +4,7 @@ title = "Toi et moi (cover)"
 menu = "main"
 Categories = ["kitchen"]
 Tags = ["english"]
-Description = "MACVIE, Toi et moi (Guillaume Grand cover ǀ KT-GQ session)"
+Description = "MacVie, Toi et moi (Guillaume Grand cover ǀ KT-GQ session)"
 
 +++
 
