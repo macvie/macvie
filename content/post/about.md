@@ -80,7 +80,8 @@ From the **YOUTUBE MUSIC SESSIONS**:
 
 A number of different and good musicians also publish their music on various youtube platforms like "Sofar Sounds”, “Mahogany Sessions”, “Berlin Sessions” or “Vevo Dscvr", just to name a few. While some of them are not yet known or are waiting for a break-through, their music is great and worth listining to or/and getting inspiriation from. See the YOUTUBE MUSIC SESSIONS playlist: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e2QIFGpE0Lo?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAwRuJQ7Ex20DnXun3ryS7U1" frameborder="0" allowfullscreen></iframe>
+
 
 
 And finally from the **EUROVISION SONG CONTEST**:
