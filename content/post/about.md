@@ -67,7 +67,7 @@ Of course, the are also songs that have had global impact. Hereto belong songs o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAxJBxrXwPyyJ8fWJpRhAwhp" frameborder="0" allowfullscreen></iframe>
 
 
-From **the VOICE** (EN):
+From **the VOICE**:
 ----
 
 Ever since it was launched in Holland in 2010, The Voice has been a very interesting source of inspiration too, both for the diversity of songs chosen by the voice's talents, for the way the songs are interpreted, as well as for the talent's voices and their very divers ways of singing. Especially, since it went global and conquered most of the countries on this planet, the Voice offers now an excellent platform for singers to participate or to get inspiration from. See the VOICE playlist: 
@@ -75,13 +75,15 @@ Ever since it was launched in Holland in 2010, The Voice has been a very interes
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAwtdCyKfCppWB79Jvf6MGCx" frameborder="0" allowfullscreen></iframe>
 
 
-From **the YOUTUBE MUSIC SESSIONS**:
+From the **YOUTUBE MUSIC SESSIONS**:
+----
+
 A number of different and good musicians also publish their music on various youtube platforms like "Sofar Sounds”, “Mahogany Sessions”, “Berlin Sessions” or “Vevo Dscvr", just to name a few. While some of them are not yet known or are waiting for a break-through, their music is great and worth listining to or/and getting inspiriation from. See the YOUTUBE MUSIC SESSIONS playlist: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e2QIFGpE0Lo?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 
-And finally from the **EUROVISION SONG CONTEST** (EN):
+And finally from the **EUROVISION SONG CONTEST**:
 ----
 
 One cannot forget here the biggest European––if not global––song festival event, the European Song Contest (ESC), which takes place every year in May with most of the European countries represented in the competition. Over the years, the ESC has made some good songs to hits (i.e. ABBA) and also helped other reach the wider European public. Thanks to the participation in the ESC, some artists started their international music careers for good, such as Lena Meyer-Landrut from Germany or Måns Zelmerlöw from Sweden, both ESC winners from 2010 and 2015 respectively. See the ESC playlist:
