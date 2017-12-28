@@ -26,7 +26,7 @@ His songs and compositions will look for a pop-rock sound with appealing melodie
  
 MacVie's musical influences also come from across different various geographical locations. Sometimes they come and go. Sometimes they stay, and even if they go, they may as well come back again. In this way, many good songs, often exceptional voices and also interesting ways of singing, have been inspiring for MacVie over the years: 
 
-From **SWEDEN** (SE/Scandinavian):
+From **SWEDEN/SCANDINAVIA** (SE):
 ----
 
 Bland de artister som upptagit min tid p.g.a. att jag ofta lyssnat på deras musik är jazzsångerskan **Viktoria Tolstoy** *(2006-11)*, gruppen **Esbjörn Svensson Trio** *(2005-2013)*, **Tingvall Trio** *(2009-14)*, **Helge Lion Trio** *(2009-14)* eller **NHØP** *(2013-17)*. Även några svenska gitarrister så som **Andreas Pettersson** *(2010-17)* och **Ulf Wakenius** *(2011-18)* har inspirerat mig. Inom rock, pop och liknande sound tycker jag mycket om **Bo Kaspers Orkester** *(2010-18)*, **Melissa Horn** *(2013-18)*, **Veronica Maggio** *(2014-16)* och **Laleh** *(2014-18)*. Det finns också några rockband som spelat för många år sedan i Sverige som t.ex. **Kent** *(2013-17)* och **Håkan Hellström** *(2015-18)*. Se här den svenska playlistan:
