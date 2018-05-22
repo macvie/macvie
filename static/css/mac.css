@@ -5,3 +5,8 @@ html {
     line-height: 1.5rem !important;
     font-size: 1.2rem !important;
 }
+
+.post pre {
+    margin-top: 2rem !important;
+    background-color: #f8f8f8 !important;
+}
