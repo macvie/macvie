@@ -3,7 +3,7 @@ title = "Halfway (cover)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
-Description = "MACVIE, Halfway (The Two Romans cover, raw mix/teaser)"
+Description = "MACVIE, Halfway ǀ  The Two Romans cover, raw mix/teaser"
 date = "2017-04-04T18:47:59+02:00"
 
 +++
