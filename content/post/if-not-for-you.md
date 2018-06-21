@@ -4,7 +4,7 @@ title = "If not for you (original, 04.2018)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, If not for you (original, feat. Axel Richter, WohnziKonzi, Berlin, 17.06.18)"
+Description = "MACVIE, If not for you  ǀ  original, feat. Axel Richter on guitar, WohnziKonzi, Berlin, 17.06.18"
 +++
 
 
