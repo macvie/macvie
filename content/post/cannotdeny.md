@@ -4,7 +4,7 @@ title = "I cannot deny - blues for you (original, 2009-16)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, I cannot deny - blues for you (home recording)"
+Description = "MACVIE, I cannot deny - blues for you  ǀ  home / JM/Kato HC, Berlin"
 +++
 
 
