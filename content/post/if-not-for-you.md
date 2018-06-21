@@ -8,7 +8,7 @@ Description = "MACVIE, If not for you  ǀ  original, feat. Axel Richter on guita
 +++
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7jmZ5fqDQhA?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jmZ5fqDQhA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 
 <pre>
