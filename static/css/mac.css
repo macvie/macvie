@@ -9,4 +9,6 @@ html {
 .post pre {
     margin-top: 2rem !important;
     background-color: #f8f8f8 !important;
+    width: 110% !important;
+    margin-left: -2em !important;
 }
