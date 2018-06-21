@@ -1,10 +1,10 @@
 +++
 date = "2017-12-19T18:46:55+02:00"
-title = "I cannot deny - blues for you (original)"
+title = "I cannot deny - blues for you (original, 2009-16)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MacVie, I cannot deny - blues for you"
+Description = "MacVie, I cannot deny - blues for you (home recording)"
 +++
 
 
