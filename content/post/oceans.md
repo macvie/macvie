@@ -4,7 +4,7 @@ title = "Oceans (cover)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, Oceans   ǀ  cover, WohnziKonzi, Berlin, 17.06.18"
+Description = "MACVIE, Oceans   ǀ  Seafret cover, WohnziKonzi, Berlin, 17.06.18"
 +++
 
 
