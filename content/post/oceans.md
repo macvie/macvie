@@ -4,7 +4,7 @@ title = "Oceans (cover)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, Seafret cover ǀ "Inner Beauty" event, Peine, 31.08.18"
+Description = "MACVIE, Seafret cover ǀ 'Inner Beauty' event, Peine, 31.08.18"
 +++
 
 
