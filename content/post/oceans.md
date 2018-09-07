@@ -1,14 +1,14 @@
 +++
-date = "2018-06-19T06:45:51+02:00"
+date = "2018-09-06T06:45:51+02:00"
 title = "Oceans (cover)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, Seafret cover   ǀ    WohnziKonzi, Berlin, 17.06.18"
+Description = "MACVIE, Seafret cover   ǀ    "Inner Beauty" event, Peine, 31.08.18"
 +++
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mg07_MTj78Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gQGv0rkOR7k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
