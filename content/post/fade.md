@@ -1,6 +1,6 @@
 
 +++
-title = "Fade (cover)"
+title = "Fade (cover, 08.2018)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
