@@ -4,7 +4,7 @@ title = "You know, Im no good (cover, 09.2018)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
-Description = "MACVIE, You know, Im no good  ǀ  Amy Winehouse Capaldi cover"
+Description = "MACVIE, You know, Im no good  ǀ  Amy Winehouse cover"
 date = "2018-09-16T18:47:59+02:00"
 
 +++
