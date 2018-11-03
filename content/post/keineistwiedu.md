@@ -5,6 +5,7 @@ menu = "main"
 Categories = ["video"]
 Tags = ["english"]
 Description = "MACVIE, Gregor Meyle cover   ǀ   Smögen, Westschweden"
+draft = true 
 +++
 
 
