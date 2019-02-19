@@ -37,7 +37,7 @@ Bland de artister som upptagit min tid p.g.a. att jag ofta lyssnat på deras mus
 From **FRANCE** (FR):
 ----
 
-La France a été une source d'inspiration musicale pour plus que deux décennies. Plus tôt, c'était parmi beaucoup d'autres **Francis Cabrel** *(1998-2013)*, **Indochine** *(2005-9)* ou bien **Anggun** *(2008-13)* et **Lara Fabian** *(2007-2018)*, y compris nombreuses chansons du canon Chansons françaises, par exemple **Kate Rayn** *(2008-2010)*. Actuellement, c'est **Louane** *(2015-18)*, la gagnante de télé-crochet “The Voice, la plus belle voix” de 2015 en France et surtout **Slimane** *(2016-18)*, aussi gagnant de the Voice en France en 2016, qui fait partie de ma liste de chansons en français. Ensuite, les artistes comme **ZAZ** *(2013-17)* ou bien **Christophe Maé** *(2016-17)* trouvent bien sûr aussi leurs places dans ma liste de la musique française. Voir ici la liste: 
+La France a été une source d'inspiration musicale pour plus que deux décennies. Plus tôt, c'était parmi beaucoup d'autres **Francis Cabrel** *(1998-2013)*, **Indochine** *(2005-9)* ou bien **Anggun** *(2008-13)* et **Lara Fabian** *(2007-2018)*, y compris nombreuses chansons du canon Chansons françaises, par exemple **Kate Rayn** *(2008-2010)*. Actuellement, c'est **Louane** *(2015-18)*, la gagnante de télé-crochet “The Voice, la plus belle voix” de 2015 en France et surtout **Slimane** *(2016-19)*, aussi gagnant de the Voice en France en 2016, qui fait partie de ma liste de chansons en français. Ensuite, les artistes comme **ZAZ** *(2013-17)* ou bien **Christophe Maé** *(2016-18)* trouvent bien sûr aussi leurs places dans ma liste de la musique française. Voir ici la liste: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAxZ-dkynVqcwi9Uj42LB1GK" frameborder="0" allowfullscreen></iframe>
 
@@ -45,7 +45,7 @@ La France a été une source d'inspiration musicale pour plus que deux décennie
 From **GERMANY** (DE):
 ----
  
-In der deutschsprachigen Musikszene gibt es ebenfalls viele tolle Künstler, die mich beeinflusst haben. Unter diesen befinden sich solche mit einer langjähringen Musikkarriere und vielen Hits wie z.B. die Musik-Ikonen **Nena** *(1984-2007)*, **Nina Hagen** *(1988-2003)*, **Mia**, *(2002-15)*, oder **die Toten Hosen** *(1987-2015)* sowie solche, die erst seit einigen Jahren bekannt sind und die Szene aufmischen. Unter vielen anderen sind hierbei vor allem **Silbermond** *(2013-18)*, **Andreas Bourani** *(2014-18)*, **Cäthe** *(2014-18)*, **Max Giesinger** *(2016-18)*, **Mark Forster** *(2015-18)*, **Alex Knappe** *(2016-17)* oder **Clueso** *(2015-18)* zu nennen. Siehe die deutsche Playliste: 
+In der deutschsprachigen Musikszene gibt es ebenfalls viele tolle Künstler, die mich beeinflusst haben. Unter diesen befinden sich solche mit einer langjähringen Musikkarriere und vielen Hits wie z.B. die Musik-Ikonen **Nena** *(1984-2007)*, **Nina Hagen** *(1988-2003)*, **Mia**, *(2002-15)*, oder **die Toten Hosen** *(1987-2015)* sowie solche, die erst seit einigen Jahren bekannt sind und die Szene aufmischen. Unter vielen anderen sind hierbei vor allem **Silbermond** *(2013-18)*, **Andreas Bourani** *(2014-18)*, **Cäthe** *(2014-18)*, **Max Giesinger** *(2016-19)*, **Mark Forster** *(2015-19)*, **Alex Knappe** *(2016-17)* oder **Clueso** *(2015-18)* zu nennen. Siehe die deutsche Playliste: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAy8-p6JTVFFktf1ZDHrEywB" frameborder="0" allowfullscreen></iframe>
 
@@ -53,7 +53,7 @@ In der deutschsprachigen Musikszene gibt es ebenfalls viele tolle Künstler, die
 From **POLAND** (PL):
 ----
 
-Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak **Republika/Obwatel GC** *(1983-91)*, **Dżem** *(1983-93)*, **Oddział Zamknięty** *(1983-95)*, **Banda i Wanda** *(1984-96)*, **Lombard** *(1984-96)*, **Bajm** *(1987-2008)* czy **TSA** *(1985-89)*. Troche później dołączyły do nich **CREE** *(2003-2014)*, **O.N.A.** *(2007-15)* oraz **Agnieszka Chylińska** *(20013-16)*. Niedawno, odkrycie muzycznego programu telewizyjnego “Must Be The Music”, czyli grupa **LemOn** *(2015-18)*, jak i niektóre utwory **Sylwii Grzeszczak** *(2016-18)*, są również częścią mojego muzycznego dnia. Zobacz polską listę utworów:
+Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak **Republika/Obwatel GC** *(1983-91)*, **Dżem** *(1983-93)*, **Oddział Zamknięty** *(1983-95)*, **Banda i Wanda** *(1984-96)*, **Lombard** *(1984-96)*, **Bajm** *(1987-2008)* czy **TSA** *(1985-89)*. Troche później dołączyły do nich **CREE** *(2003-2014)*, **O.N.A.** *(2007-16)* oraz **Agnieszka Chylińska** *(20013-16)*. Niedawno, odkrycie muzycznego programu telewizyjnego “Must Be The Music”, czyli grupa **LemOn** *(2015-19)*, jak i niektóre utwory **Sylwii Grzeszczak** *(2016-19)*, są również częścią mojego muzycznego dnia. Zobacz polską listę utworów:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAy-CpejVKhfFc1rYe9dHufI" frameborder="0" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak **Republika/Obw
 **INTERNATIONAL** (EN):
 ----
 
-Of course, the are also songs that have had global impact. Hereto belong songs of the British female singers **Adele** *(2013-17)*, **Jessie J.** *(2013-18)* or **Amy Winehouse** *(2014-2016)*. There have also been a number of rock bands, among them for instance the **Queen** *(1998-2007)*, the guitarist **Jimi Hendrix** *(1995-2009)*; the Swedish popstar **Zara Larsson** *(2015-18)* with some of her hits, or recently **Alice Merton** *(2017-2018)*, **Sigrid** *(2017-2018)* or **Dua Lipa** *(2018)*, and few others. New comers and even not yet known singers and songwriters are there as well, as for instance the young female Norvegian artist **Inger Nordvik** *(2017-2018)* or the Dutch-German Duo **Nosoyo** *(2017-2018)*. See the EN/INT playlist: 
+Of course, the are also songs that have had global impact. Hereto belong songs of the British female singers **Adele** *(2013-17)*, **Jessie J.** *(2013-18)* or **Amy Winehouse** *(2014-2016)*. There have also been a number of rock bands, among them for instance the **Queen** *(1998-2007)*, the guitarist **Jimi Hendrix** *(1995-2009)*; the Swedish popstar **Zara Larsson** *(2015-18)* with some of her hits, or recently **Alice Merton** *(2017-2019)*, **Sigrid** *(2017-2019)* or **Dua Lipa** *(2018-2019)*, and few others. New comers and even not yet known singers and songwriters are there as well, as for instance the young female Norvegian artist **Inger Nordvik** *(2017-2018)* or the Dutch-German Duo **Nosoyo** *(2017-2018)*. See the EN/INT playlist: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAxJBxrXwPyyJ8fWJpRhAwhp" frameborder="0" allowfullscreen></iframe>
 
