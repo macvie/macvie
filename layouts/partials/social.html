@@ -4,13 +4,13 @@
         <li class="navigation__item">
             <a href="http://facebook.com/{{ .Site.Params.facebook }}" title="@{{ .Site.Params.facebook }} on Facebook"> <i class='fa fa-facebook'></i> <span class="label">Facebook</span> </a>
         </li>
-        <!-- SoundCloud -->
-        <li class="navigation__item">
-            <a href="http://souncloud.com/{{ .Site.Params.soundcloud }}" title="@{{ .Site.Params.soundcloud }} on SoundCloud"> <i class='fa fa-soundcloud'></i> <span class="label">Souncloud</span> </a>
-        </li>
         <!-- Youtube -->
         <li class="navigation__item">
             <a href="http://youtube.com/{{ .Site.Params.youtube }}" title="@{{ .Site.Params.youtube }} on Youtube"> <i class='fa fa-youtube'></i> <span class="label">Youtube</span> </a>
+        </li>
+        <!-- Youtube -->
+        <li class="navigation__item">
+            <a href="https://www.instagram.com/{{ .Site.Params.instagram }}" title="@{{ .Site.Params.instagram }} on Instagram"> <i class='fa fa-instagram'></i> <span class="label">Instagram</span> </a>
         </li>
         {{ if .Site.Params.twitter }}
         <!-- Twitter -->
@@ -36,5 +36,10 @@
         <!-- Email -->
         <li class="navigation__item">
             <a href="mailto:{{ .Site.Params.email }}" title="Email {{ .Site.Params.email }}"> <i class='fa fa-envelope-o'></i> <span class="label">Email</span> </a>
-        </li> {{ end }} </ul>
+        </li> {{ end }}
+        <!-- SoundCloud -->
+        <li class="navigation__item">
+            <a href="http://souncloud.com/{{ .Site.Params.soundcloud }}" title="@{{ .Site.Params.soundcloud }} on SoundCloud"> <i class='fa fa-soundcloud'></i> <span class="label">Souncloud</span> </a>
+        </li>
+    </ul>
 </nav>
