@@ -18,8 +18,7 @@ His songs and compositions look for a pop-rock sound with appealing melodies. Wh
 
 
 
-
-    "Of course, there have been many loves in between. Music, however, was the first one and, who knows, might as well remain the last. Not unusual, when young, it hit me as an unexpected storm full of thunders and lightnings. Later, it followed me here and there through different stages in life, once actively with the band **The Holy Ghost** during the university time in Potsdam and few concerts on the university stage. Since then, it has constantly accompanied my European odyssey until late 2016 when it hit me again but hard. The consequence has been that although late––albeit not too late because for music it is never too late––I now want to sing more and better in order to somehow reach myself and then, why not if it happens, some other people as well."
+"Of course, there have been many loves in between. Music, however, was the first one and, who knows, might as well remain the last. Not unusual, when young, it hit me as an unexpected storm full of thunders and lightnings. Later, it followed me here and there through different stages in life, once actively with the band **The Holy Ghost** during the university time in Potsdam and few concerts on the university stage. Since then, it has constantly accompanied my European odyssey until late 2016 when it hit me again but hard. The consequence has been that although late––albeit not too late because for music it is never too late––I now want to sing more and better in order to somehow reach myself and then, why not if it happens, some other people as well."
 
 
 
