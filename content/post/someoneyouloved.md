@@ -1,10 +1,10 @@
 +++
 date = "2019-07-06T06:47:55+02:00"
-title = "Someone you loved (Axel band-MTC session)"
+title = "Someone you loved (MTC session)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, Someone you loved  ǀ  L. Capaldi interpretation, ft. Katharina, 'Axel band-MTC session', Berlin, 04.07.2019"
+Description = "MACVIE, Someone you loved  ǀ  L. Capaldi interpretation, ft. Katharina, 'MTC session', Berlin, 04.07.2019"
 +++
 
 
