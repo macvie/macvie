@@ -1,10 +1,10 @@
 
 +++
-title = "Fade (cover, 08.2018)"
+title = "Fade (interpretation, 08.2018)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
-Description = "MACVIE, Fade  ǀ  Lewis Capaldi cover"
+Description = "MACVIE, Fade  ǀ  Lewis Capaldi interpretation"
 date = "2018-09-05T18:47:59+02:00"
 
 +++
