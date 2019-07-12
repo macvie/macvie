@@ -1,10 +1,10 @@
 +++
 date = "2017-12-04T18:46:55+02:00"
-title = "Bis gleich (cover)"
+title = "Bis gleich (interpretation)"
 menu = "main"
 Categories = ["kitchen"]
 Tags = ["english"]
-Description = "MACVIE, Bis gleich (Ayke Witt cover  ǀ  KT session)"
+Description = "MACVIE, Bis gleich (Ayke Witt interpretation  ǀ  KT session)"
 +++
 
 
