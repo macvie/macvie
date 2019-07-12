@@ -1,10 +1,10 @@
 +++
 date = "2017-12-09T11:46:55+02:00"
-title = "Toi et moi (cover)"
+title = "Toi et moi (interpretation)"
 menu = "main"
 Categories = ["kitchen"]
 Tags = ["english"]
-Description = "MACVIE, Toi et moi (Guillaume Grand cover  ǀ  KT session"
+Description = "MACVIE, Toi et moi (Guillaume Grand interpretation  ǀ  KT session"
 
 +++
 
