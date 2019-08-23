@@ -1,7 +1,7 @@
 
 +++
 date = "2019-08-15T06:47:55+02:00"
-title = "Kiedy znowu (interpretation 08.2019)"
+title = "Kiedy znowu (interpretation, 08.2019)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
