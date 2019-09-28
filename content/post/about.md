@@ -14,21 +14,19 @@ date = "2019-09-27T19:21:58+02:00"
 
 Currently based in Berlin, **MacVie** is a singer, songwriter & interpret. 
 
-His songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations come from different genres, such as **Pop**, **Pop-Rock**, **Rock**, **Rock-Blues**, **Blues**, **Nordic Jazz**, **Chansons françaises** and **Deutsch-Pop**, and even from different national **the Voice** editions, from the **Eurovision Song Contest** or, last but not least, from various youtube music sessions –– like **“Sofar Sounds”**, **“Mahogany Sessions”**, **“Berlin Sessions”** or **"Vevo Dscvr”**, just to name a few –– some of them are quite old but still make up his daily playlists. Those evolve as much as the artist himself.
+In the making, his songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations come from different genres, such as **Pop**, **Pop-Rock**, **Rock**, **Rock-Blues**, **Blues**, **Nordic Jazz**, **Chansons françaises** and **Deutsch-Pop**, and even from different national **the Voice** editions, from the **Eurovision Song Contest** or, last but not least, from various youtube music sessions (like **“Sofar Sounds”**, **“Mahogany Sessions”**, **“Berlin Sessions”** or **"Vevo Dscvr”**, just to name a few), some of them are quite old but still make up his daily playlists. However, those evolve as much as the artist himself.
+
+
+"Of course, there have been many loves in between. Music, however, was the first one and, who knows, might as well remain the last. Not unusual, when young, it hit me as an unexpected storm full of thunders and lightnings. Later, it followed me here and there through different stages in life, once actively with the band **The Holy Ghost** during the university time in Potsdam (Germany) and few concerts on the university stage. Since then, it has constantly accompanied my European odyssey until late 2016 when it hit me again but hard. The consequence has been that although late (albeit for music, it is never too late), I now want to sing more and better in order to somehow reach myself and then, why not if it happens, some other people as well" (MacVie). 
 
 
 
-"Of course, there have been many loves in between. Music, however, was the first one and, who knows, might as well remain the last. Not unusual, when young, it hit me as an unexpected storm full of thunders and lightnings. Later, it followed me here and there through different stages in life, once actively with the band **The Holy Ghost** during the university time in Potsdam and few concerts on the university stage. Since then, it has constantly accompanied my European odyssey until late 2016 when it hit me again but hard. The consequence has been that although late––albeit not too late because for music it is never too late––I now want to sing more and better in order to somehow reach myself and then, why not if it happens, some other people as well."
-
-
-
- 
-MacVie's musical influences also come from across different various geographical locations. Sometimes they come and go. Sometimes they stay, and even if they go, they may as well come back again. In this way, many good songs, often exceptional voices and also interesting ways of singing, have been inspiring for MacVie over the years: 
+MacVie's musical influences also come from across different various geographical locations (see below). Sometimes they come and go. Sometimes they stay, and even if they go, they may as well come back again. In this way, many good songs, often exceptional voices, and also interesting ways of singing, have all been inspiring for MacVie over the years, as for instance: 
 
 From **SWEDEN/SCANDINAVIA** (SE):
 ----
 
-Bland de artister som upptagit min tid p.g.a. att jag ofta lyssnat på deras musik är jazzsångerskan **Viktoria Tolstoy** *(2006-11)*, gruppen **Esbjörn Svensson Trio** *(2005-2013)*, **Tingvall Trio** *(2009-14)*, **Helge Lion Trio** *(2009-14)* eller **NHØP** *(2013-17)*. Även några svenska gitarrister så som **Andreas Pettersson** *(2010-17)* och **Ulf Wakenius** *(2011-18)* har inspirerat mig. Inom rock, pop och liknande sound tycker jag mycket om **Bo Kaspers Orkester** *(2010-18)*, **Melissa Horn** *(2013-18)*, **Veronica Maggio** *(2014-16)* och **Laleh** *(2014-18)*. Det finns också några rockband som spelat för många år sedan i Sverige som t.ex. **Kent** *(2013-17)* och **Håkan Hellström** *(2015-18)*. Se här den svenska playlistan:
+Bland de artister som upptagit min tid p.g.a. att jag ofta lyssnat på deras musik är jazzsångerskan **Viktoria Tolstoy** *(2006-11)*, gruppen **Esbjörn Svensson Trio** *(2005-2013)*, **Tingvall Trio** *(2009-14)*, **Helge Lion Trio** *(2009-14)* eller **NHØP** *(2013-17)*. Även några svenska gitarrister så som **Andreas Pettersson** *(2010-17)* och **Ulf Wakenius** *(2011-18)* har inspirerat mig. Inom rock, pop och liknande sound tycker jag mycket om **Bo Kaspers Orkester** *(2010-18)*, **Melissa Horn** *(2013-19)*, **Veronica Maggio** *(2014-19)*, **Laleh** *(2014-19)* och **Molly Sandén** *(2010-17). Det finns också några rockband som spelat för många år sedan i Sverige som t.ex. **Kent** *(2013-17)* och **Håkan Hellström** *(2015-18)*. Se här den svenska playlistan:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAxpWMedoUHCWOkecgmcCJi4" frameborder="0" allowfullscreen></iframe>
 
@@ -52,7 +50,7 @@ In der deutschsprachigen Musikszene gibt es ebenfalls viele tolle Künstler, die
 From **POLAND** (PL):
 ----
 
-Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak **Republika/Obwatel GC** *(1983-91)*, **Dżem** *(1983-93)*, **Oddział Zamknięty** *(1983-95)*, **Banda i Wanda** *(1984-96)*, **Lombard** *(1984-96)*, **Bajm** *(1987-2008)* czy **TSA** *(1985-89)*. Troche później dołączyły do nich **CREE** *(2003-2014)*, **O.N.A.** *(2007-16)* oraz **Agnieszka Chylińska** *(20013-16)*. Niedawno, odkrycie muzycznego programu telewizyjnego “Must Be The Music”, czyli grupa **LemOn** *(2015-19)*, jak i niektóre utwory **Sylwii Grzeszczak** *(2016-19)*, są również częścią mojego muzycznego dnia. Zobacz polską listę utworów:
+Z Polski wpłynęły na mnie przede wszystkim takie zespoły jak **Republika/Obwatel GC** *(1983-91)*, **Dżem** *(1983-93)*, **Oddział Zamknięty** *(1983-95)*, **Banda i Wanda** *(1984-96)*, **Lombard** *(1984-96)*, **Bajm** *(1987-2008)* czy **TSA** *(1985-89)*. Troche później dołączyły do nich **CREE** *(2003-2014)*, **O.N.A.** *(2007-16)*, **Agnieszka Chylińska** *(20013-16)* oraz odkrycie muzycznego programu telewizyjnego “Must Be The Music”, czyli grupa **LemOn** *(2015-19)*. Do interesujących artystów ostatnich lat należą między innymi **Sylwia Grzeszczak**, **Daria Zawiałów**, **Margaret**, **Paweł Domagała**, **Zuza Jabłońska**, **Jula**, **Męske Granie**  *(2016-19)*. Oni wszyscy aą również częścią mojego muzycznego dnia. Zobacz polską listę utworów:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAy-CpejVKhfFc1rYe9dHufI" frameborder="0" allowfullscreen></iframe>
