@@ -4,7 +4,7 @@ Categories = [""]
 Tags = [""]
 Description = ""
 menu = "main"
-date = "2017-04-09T19:21:58+02:00"
+date = "2019-09-27T19:21:58+02:00"
 
 +++
 
@@ -14,7 +14,7 @@ date = "2017-04-09T19:21:58+02:00"
 
 Currently based in Berlin, **MacVie** is a singer, songwriter & interpret. 
 
-His songs and compositions look for a pop-rock sound with appealing melodies. While his influences and inspirations come from different genres, such as **Pop**, **Pop-Rock**, **Rock**, **Rock-Blues**, **Blues**, **Nordic Jazz**, **Chansons françaises** and **Deutsch-Pop**, and even from different national **the Voice** editions, from the **Eurovision Song Contest** or, last but not least, from various youtube music sessions –– like **“Sofar Sounds”**, **“Mahogany Sessions”**, **“Berlin Sessions”** or **"Vevo Dscvr”**, just to name a few –– some of them are quite old but still make up his daily playlists. Those evolve as much as the artist himself.
+His songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations come from different genres, such as **Pop**, **Pop-Rock**, **Rock**, **Rock-Blues**, **Blues**, **Nordic Jazz**, **Chansons françaises** and **Deutsch-Pop**, and even from different national **the Voice** editions, from the **Eurovision Song Contest** or, last but not least, from various youtube music sessions –– like **“Sofar Sounds”**, **“Mahogany Sessions”**, **“Berlin Sessions”** or **"Vevo Dscvr”**, just to name a few –– some of them are quite old but still make up his daily playlists. Those evolve as much as the artist himself.
 
 
 
@@ -44,7 +44,7 @@ La France a été une source d'inspiration musicale pour plus que deux décennie
 From **GERMANY** (DE):
 ----
  
-In der deutschsprachigen Musikszene gibt es ebenfalls viele tolle Künstler, die mich beeinflusst haben oder deren Musik ich gerne höre. Unter diesen befinden sich solche mit einer langjähringen Musikkarriere und vielen Hits wie z.B. die Musik-Ikonen **Nena** *(1984-2007)*, **Nina Hagen** *(1988-2003)*, **Mia**, *(2002-15)*, oder **die Toten Hosen** *(1987-2015)* sowie solche, die erst seit einigen Jahren bekannt sind und die Szene aufmischen. Unter vielen anderen sind hierbei vor allem **Silbermond** *(2013-18)*, **Andreas Bourani** *(2014-18)*, **Cäthe** *(2014-18)*, **Max Giesinger** *(2016-19)*, **Mark Forster** *(2015-19)*, **Alex Knappe** *(2016-17)* oder **Clueso** *(2015-19)*, oder gar Newcomers **Tochter** (ex. Eißzeit) zu nennen. Siehe die deutsche Playliste: 
+In der deutschsprachigen Musikszene gibt es ebenfalls viele tolle Künstler, die mich beeinflusst haben oder deren Musik ich gerne höre. Unter diesen befinden sich solche mit einer langjähringen Musikkarriere und vielen Hits wie z.B. die Musik-Ikonen **Nena** *(1984-2007)*, **Nina Hagen** *(1988-2003)*, **Mia**, *(2002-15)*, oder **die Toten Hosen** *(1987-2015)* sowie solche, die erst seit einigen Jahren bekannt sind und die Szene aufmischen. Unter vielen anderen sind hierbei vor allem **Silbermond** *(2013-18)*, **Andreas Bourani** *(2014-18)*, **Cäthe** *(2014-18)*, **Max Giesinger** *(2016-19)*, **Mark Forster** *(2015-19)*, **Alex Knappe** *(2016-17)* oder **Clueso** *(2015-19)*, oder gar Newcomers **Tochter** *(ex. Eißzeit, 2018-19)* zu nennen. Siehe die deutsche Playliste: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL6WhXD4OYrAy8-p6JTVFFktf1ZDHrEywB" frameborder="0" allowfullscreen></iframe>
 
