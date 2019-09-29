@@ -1,10 +1,10 @@
 +++
 date = "2017-04-12T18:46:55+02:00"
-title = "Manchmal wissen wir nicht (original, 03.2016)"
+title = "Manchmal wissen wir nicht (original)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["deutsch"]
-Description = "MACVIE, Manchmal wissen wir nicht  ǀ  original, raw mix/teaser"
+Description = "MACVIE, Manchmal wissen wir nicht  ǀ  original, raw mix/teaser, 16.03.2016"
 +++
 
 
