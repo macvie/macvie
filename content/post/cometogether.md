@@ -5,7 +5,7 @@ title = "Come together (KT session)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, The Beatles, interpretation   ǀ   KT session, Berlin, 28.08.18"
+Description = "MACVIE, The Beatles, interpretation   ǀ   KT session, Berlin, 28.08.2018"
 +++
 
 
