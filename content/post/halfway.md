@@ -1,9 +1,9 @@
 +++
-title = "Halfway (interpretation, 04.2017)"
+title = "Halfway (The two Romans, interpretation)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
-Description = "MACVIE, Halfway ǀ  The Two Romans interpretation, raw mix/teaser"
+Description = "MACVIE, Halfway ǀ  The Two Romans, interpretation, raw mix/teaser, 03.04.2017"
 date = "2017-04-04T18:47:59+02:00"
 
 +++
