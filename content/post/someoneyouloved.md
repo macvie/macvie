@@ -1,6 +1,6 @@
 +++
 date = "2019-08-06T06:47:55+02:00"
-title = "Someone you loved (interpretation, 08.2019)"
+title = "Someone you loved (L. Capaldi, interpretation)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
