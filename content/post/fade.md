@@ -1,10 +1,10 @@
 
 +++
-title = "Fade (interpretation, 08.2018)"
+title = "Fade (L. Capaldi, interpretation)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
-Description = "MACVIE, Fade  ǀ  Lewis Capaldi interpretation"
+Description = "MACVIE, Fade  ǀ  Lewis Capaldi, interpretation, private show, 31.08.2018"
 date = "2018-09-05T18:47:59+02:00"
 
 +++
