@@ -1,11 +1,11 @@
 
 +++
 date = "2019-08-15T06:47:55+02:00"
-title = "Kiedy znowu (CREE interpretation)"
+title = "Kiedy znowu (CREE, interpretation)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
-Description = "MACVIE, Kiedy znowu  ǀ  CREE interpretation, 'KT session', Berlin, 12.08.2019"
+Description = "MACVIE, Kiedy znowu  ǀ  CREE, interpretation, 'KT session', Berlin, 12.08.2019"
 +++
 
 
