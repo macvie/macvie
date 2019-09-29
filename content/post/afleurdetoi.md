@@ -1,7 +1,7 @@
 
 +++
 date = "2019-09-14T06:47:55+02:00"
-title = "À fleur de toi (live at 'Rote Beete' jam session #5)"
+title = "À fleur de toi (live at 'Rote Beete')"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
