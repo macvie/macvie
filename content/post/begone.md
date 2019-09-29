@@ -1,9 +1,9 @@
 +++
-title = "Be gone (original, 02.2018)"
+title = "Be gone (original)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
-Description = "MACVIE, Be gone ǀ  original, tablet recording"
+Description = "MACVIE, Be gone ǀ  original, tablet recording, 01.02.2018"
 date = "2018-02-02T18:47:59+02:00"
 
 +++
