@@ -4,7 +4,7 @@ title = "Oceans ('Inter beauty' event, private show)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, Seafret interpretation ǀ 'Inner Beauty' event, Peine, 31.08.éà18"
+Description = "MACVIE, Seafret interpretation ǀ 'Inner Beauty' event, Peine, 31.08.2018"
 +++
 
 
