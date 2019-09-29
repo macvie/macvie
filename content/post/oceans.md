@@ -1,10 +1,10 @@
 +++
 date = "2018-08-31T06:45:51+02:00"
-title = "Oceans (interpretation)"
+title = "Oceans ('Inter beauty' event, private show)"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, Seafret interpretation ǀ 'Inner Beauty' event, Peine, 31.08.18"
+Description = "MACVIE, Seafret interpretation ǀ 'Inner Beauty' event, Peine, 31.08.éà18"
 +++
 
 
