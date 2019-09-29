@@ -1,10 +1,10 @@
 +++
 date = "2018-06-17T06:46:55+02:00"
-title = "If not for you (original, 04.2018)"
+title = "If not for you (original, live at 'WZK #3')"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, If not for you  ǀ  original, feat. akki on guitar, WohnziKonzi, Berlin, 17.06.18"
+Description = "MACVIE, If not for you  ǀ  original, ft. akki on guitar, Wohnzikonzi #3, Berlin, 17.06.2018"
 +++
 
 
