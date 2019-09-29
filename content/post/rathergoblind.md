@@ -5,7 +5,7 @@ title = "I'd rather go blind (live at 'Soleil du Sud')"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, I'd rather go blind  ǀ  E. James, interpretation, live at 'Soleil du Sud', Berlin, 01.03.2019"
+Description = "MACVIE, I'd rather go blind  ǀ  E. James, interpretation, live at 'Soleil du Sud' open mic, Berlin, 01.03.2019"
 +++
 
 
