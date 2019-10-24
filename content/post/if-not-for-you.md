@@ -28,7 +28,7 @@ Don’t be angry, please, I’m glad for what you did
 I know, I know, I know, I should have done it all before
 I hope, you're gonna forgive all those years that are gone
 I wish, it’s not too late, not too late for us both
-To stand side by side til our last days
+To stand side by side till our last days
 
 &#09;I don’t wanna goooooooo this road
 &#09;I don’t wanna take this turn in life without you
