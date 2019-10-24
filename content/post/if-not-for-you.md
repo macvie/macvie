@@ -26,7 +26,7 @@ Don’t be angry, please, I’m glad for what you did
 &#09;I don’t wanna sing it, if this is not for you
 
 I know, I know, I know, I should have done it all before
-I hope, you are gonna forgive all those years that are gone
+I hope, you're gonna forgive all those years that are gone
 I wish, it’s not too late, not too late for us both
 To stand side by side until our last days
 
