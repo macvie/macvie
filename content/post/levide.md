@@ -18,5 +18,5 @@ Description = "MACVIE, Le vide  ǀ  SLIMANE, pop interpretation, Berlin, 18.11.2
 Music production and preliminary mixdown by _.a.p.o._. Vocal and final mixdown by _stefanotucci at Failsafe Editions_, studio Berlin.
 
 
-Cette interpretation est faite par admiration et hommage à Slimane comme musicien et chanteur
-Merci beaucoup à lui pour sa façon de chanter ainsi que pour ses chansons
+Cette interpretation est faite par admiration et hommage à Slimane comme musicien et chanteur.
+Merci beaucoup à lui pour sa façon de chanter ainsi que pour ses chansons.
