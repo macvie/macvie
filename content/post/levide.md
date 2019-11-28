@@ -13,7 +13,9 @@ Description = "MACVIE, Le vide  ǀ  SLIMANE, pop interpretation, Berlin, 18.11.2
 
 
 "Le vide": a song written by Slimane (French singer, songwriter, interpret and musician).
-Music production and preliminary mixdown by @_.a.p.o._ , vocal and final mixdown by @stefanotucci at Failsafe Editions, studio Berlin. (...)
-+++
-Cette interpretation de MacVie est faite par admiration et hommage à Slimane comme musicien et chanteur
+Music production and preliminary mixdown by _.a.p.o._ , vocal and final mixdown by _stefanotucci at Failsafe Editions_, studio Berlin. (...)
+
+
+
+Cette interpretation est faite par admiration et hommage à Slimane comme musicien et chanteur
 Merci beaucoup à lui pour sa façon de chanter ainsi que pour ses chansons
