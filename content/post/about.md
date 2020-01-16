@@ -14,6 +14,10 @@ date = "2019-09-27T19:21:58+02:00"
 
 Currently based in Berlin, **MacVie** is a singer, songwriter & interpret. 
 
+instagrm: www.instagram.com/macviemusic/ 
+facebook: https://www.facebook.com/pg/MusicMacVie/videos/?ref=page_internal 
+soundcload: https://soundcloud.com/macvie
+
 In the making, his songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations come from different genres, such as **Pop**, **Pop-Rock**, **Rock**, **Rock-Blues**, **Blues**, **Nordic Jazz**, **Chansons françaises** and **Deutsch-Pop**, and even from different national **the Voice** editions, from the **Eurovision Song Contest** or, last but not least, from various youtube music sessions (like **“Sofar Sounds”**, **“Mahogany Sessions”**, **“Berlin Sessions”** or **"Vevo Dscvr”**, just to name a few), some of them are quite old but still make up his daily playlists. However, those evolve as much as the artist himself.
 
 
