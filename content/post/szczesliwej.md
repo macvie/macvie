@@ -5,6 +5,7 @@ menu = "main"
 Categories = ["kitchen"]
 Tags = ["polnish"]
 Description = "MACVIE, Szczęśliwej drogi już czas (VOX interpretation ǀ KT session)"
+draft = true
 
 +++
 
