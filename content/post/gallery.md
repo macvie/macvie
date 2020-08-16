@@ -41,7 +41,7 @@ date = "2020-08-08T19:21:58+02:00"
 ![IMG_0702-1](https://user-images.githubusercontent.com/459464/89734959-6cc7c080-da5f-11ea-9e2c-d591c8549a79.jpg)
 ![IMG_0716-3](https://user-images.githubusercontent.com/459464/89734960-6d605700-da5f-11ea-813d-5e313c697993.jpg)
 ![IMG_7029](https://user-images.githubusercontent.com/459464/89734961-6df8ed80-da5f-11ea-9d4e-7a76bf6e6588.JPG)
-
+... live at 'Soleil du Sud, Berlin Wedding, 01.02.2019
 
 ![IMG-20181009-WA0004](https://user-images.githubusercontent.com/459464/89734962-6e918400-da5f-11ea-9eed-f432b3eefa30.jpg)
 ... testing guitars in a music shop 'Tryton', Kraków, Poland, 12.09.2018 
@@ -53,5 +53,5 @@ date = "2020-08-08T19:21:58+02:00"
 
 
 ![WZK#5_21 09 2019](https://user-images.githubusercontent.com/459464/89734966-6fc2b100-da5f-11ea-9692-090a93828d8c.jpg)
-Live at 'WohnziKonzi' #5, Berlin, 21.09.2019
+... live at 'WohnziKonzi' #5, Berlin, 21.09.2019
 
