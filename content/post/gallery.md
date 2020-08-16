@@ -12,6 +12,8 @@ date = "2020-08-08T19:21:58+02:00"
 -----
 
 ![2020_04_10 - MacVie by J  Bennecke - 46](https://user-images.githubusercontent.com/459464/89734938-5f123b00-da5f-11ea-92b6-3a28462d92eb.JPG)
+... in the streets of Berlin with guitar
+
 ![2020_04_10 - MacVie by J  Bennecke - 215 neu 2](https://user-images.githubusercontent.com/459464/89734940-633e5880-da5f-11ea-8834-8c1bbd246b41.jpg)
 ![2020_04_10 - MacVie by J  Bennecke - 226](https://user-images.githubusercontent.com/459464/89734942-646f8580-da5f-11ea-8bb8-2ac0117d5231.JPG)
 ![2020_04_10 - MacVie by J  Bennecke - 381 - 04--](https://user-images.githubusercontent.com/459464/89734944-66394900-da5f-11ea-8a53-b79e1b65ee8e.JPG)
