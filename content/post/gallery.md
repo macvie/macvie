@@ -16,12 +16,16 @@ date = "2020-08-08T19:21:58+02:00"
 ![2020_04_10 - MacVie by J  Bennecke - 226](https://user-images.githubusercontent.com/459464/89734942-646f8580-da5f-11ea-8bb8-2ac0117d5231.JPG)
 ![2020_04_10 - MacVie by J  Bennecke - 381 - 04--](https://user-images.githubusercontent.com/459464/89734944-66394900-da5f-11ea-8a53-b79e1b65ee8e.JPG)
 ![2020_04_10 - MacVie by J  Bennecke - 686 Nordbahnhof](https://user-images.githubusercontent.com/459464/89734945-66d1df80-da5f-11ea-814f-65e3c80c7142.jpg)
-"Corona session" in Nordbahnhof Berlin, 10.04.2020 
+'Corona session', Nordbahnhof Berlin, 10.04.2020 
 
 ![2020_04_10 - MacVie by J  Bennecke - 771](https://user-images.githubusercontent.com/459464/89734946-676a7600-da5f-11ea-8934-4e93098eae43.JPG)
 ![2020_04_10 - MacVie by J  Bennecke - Mauer Stäbe 1 - 02](https://user-images.githubusercontent.com/459464/89734947-676a7600-da5f-11ea-8c3c-2e9bb8b55f00.jpg)
 ![20160705_171102-03](https://user-images.githubusercontent.com/459464/89734948-68030c80-da5f-11ea-8301-54d173654d24.JPG)
+'Smögen session', Smögen, west coast Sweden, 05.07.2016
+
 ![20170705_172840](https://user-images.githubusercontent.com/459464/89734949-689ba300-da5f-11ea-94aa-36257ec32482.jpg)
+... relaxing after 'The Voice of Germany' in public sesion, Berlin, Studio Adlershof, 05.07.2017  
+
 ![20171115_215852](https://user-images.githubusercontent.com/459464/89734950-69343980-da5f-11ea-9470-8fdbd27de507.jpg)
 ![20171115_221411](https://user-images.githubusercontent.com/459464/89734951-69ccd000-da5f-11ea-9e38-58c7a123c92d.jpg)
 ![20180731_125702](https://user-images.githubusercontent.com/459464/89734952-69ccd000-da5f-11ea-9e04-b178dac2cfac.jpg)
@@ -38,4 +42,6 @@ date = "2020-08-08T19:21:58+02:00"
 ![Sitzen auf Gras 2](https://user-images.githubusercontent.com/459464/89734965-6f2a1a80-da5f-11ea-9e4b-972963e107ae.jpg)
 ![WZK#5_21 09 2019](https://user-images.githubusercontent.com/459464/89734966-6fc2b100-da5f-11ea-9692-090a93828d8c.jpg)
 Live at "WohnziKonzi" #5, Berlin, 21.09.2019
+
+
 
