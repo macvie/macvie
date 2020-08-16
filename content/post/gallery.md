@@ -16,6 +16,7 @@ date = "2020-08-08T19:21:58+02:00"
 ![2020_04_10 - MacVie by J  Bennecke - 226](https://user-images.githubusercontent.com/459464/89734942-646f8580-da5f-11ea-8bb8-2ac0117d5231.JPG)
 ![2020_04_10 - MacVie by J  Bennecke - 381 - 04--](https://user-images.githubusercontent.com/459464/89734944-66394900-da5f-11ea-8a53-b79e1b65ee8e.JPG)
 ![2020_04_10 - MacVie by J  Bennecke - 686 Nordbahnhof](https://user-images.githubusercontent.com/459464/89734945-66d1df80-da5f-11ea-814f-65e3c80c7142.jpg)
+Corona session in Nordbahnhof in Berlin 
 ![2020_04_10 - MacVie by J  Bennecke - 771](https://user-images.githubusercontent.com/459464/89734946-676a7600-da5f-11ea-8934-4e93098eae43.JPG)
 ![2020_04_10 - MacVie by J  Bennecke - Mauer Stäbe 1 - 02](https://user-images.githubusercontent.com/459464/89734947-676a7600-da5f-11ea-8c3c-2e9bb8b55f00.jpg)
 ![20160705_171102-03](https://user-images.githubusercontent.com/459464/89734948-68030c80-da5f-11ea-8301-54d173654d24.JPG)
