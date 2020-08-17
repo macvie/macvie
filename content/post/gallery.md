@@ -32,30 +32,13 @@ After 'The Voice of Germany' in public sesion, Berlin, Studio Adlershof, 05.07.2
 ![20180731_125702](https://user-images.githubusercontent.com/459464/89734952-69ccd000-da5f-11ea-9e04-b178dac2cfac.jpg)
 In the forest of the Baltic, 31.07.2018
 
-![92604836_2688231814633250_4387282562851012608_n](https://user-images.githubusercontent.com/459464/89734953-6a656680-da5f-11ea-81d9-c87152be99c5.jpg)
 
-
-
-![graue Wand sitzend3](https://user-images.githubusercontent.com/459464/89734955-6afdfd00-da5f-11ea-8cb2-764662e985b5.jpg)
-
-
-![IMG_0464-1](https://user-images.githubusercontent.com/459464/89734956-6c2f2a00-da5f-11ea-9fbb-1a720e45021b.jpg)
-
-
-![IMG_0647-4-](https://user-images.githubusercontent.com/459464/89734957-6c2f2a00-da5f-11ea-9966-1e3a2ec3f08d.JPG)
-
-
-![IMG_0702-1](https://user-images.githubusercontent.com/459464/89734959-6cc7c080-da5f-11ea-9e2c-d591c8549a79.jpg)
-
-
-![IMG_0716-3](https://user-images.githubusercontent.com/459464/89734960-6d605700-da5f-11ea-813d-5e313c697993.jpg)
+![IMG-20181009-WA0004](https://user-images.githubusercontent.com/459464/89734962-6e918400-da5f-11ea-9eed-f432b3eefa30.jpg)
+Testing guitars in the music shop 'Tryton', Kraków, Poland, 12.09.2018 
 
 
 ![IMG_7029](https://user-images.githubusercontent.com/459464/89734961-6df8ed80-da5f-11ea-9d4e-7a76bf6e6588.JPG)
 Live at 'Soleil du Sud, Berlin Wedding, 01.02.2019
-
-![IMG-20181009-WA0004](https://user-images.githubusercontent.com/459464/89734962-6e918400-da5f-11ea-9eed-f432b3eefa30.jpg)
-Testing guitars in the music shop 'Tryton', Kraków, Poland, 12.09.2018 
 
 
 ![WZK#5_21 09 2019](https://user-images.githubusercontent.com/459464/89734966-6fc2b100-da5f-11ea-9692-090a93828d8c.jpg)
@@ -80,3 +63,16 @@ In the streets of Berlin with guitar. April 2020
 
 ![2020_04_10 - MacVie by J  Bennecke - Mauer Stäbe 1 - 02](https://user-images.githubusercontent.com/459464/89734947-676a7600-da5f-11ea-8c3c-2e9bb8b55f00.jpg)
 
+
+![92604836_2688231814633250_4387282562851012608_n](https://user-images.githubusercontent.com/459464/89734953-6a656680-da5f-11ea-81d9-c87152be99c5.jpg)
+
+
+![graue Wand sitzend3](https://user-images.githubusercontent.com/459464/89734955-6afdfd00-da5f-11ea-8cb2-764662e985b5.jpg)
+
+![IMG_0464-1](https://user-images.githubusercontent.com/459464/89734956-6c2f2a00-da5f-11ea-9fbb-1a720e45021b.jpg)
+
+![IMG_0647-4-](https://user-images.githubusercontent.com/459464/89734957-6c2f2a00-da5f-11ea-9966-1e3a2ec3f08d.JPG)
+
+![IMG_0702-1](https://user-images.githubusercontent.com/459464/89734959-6cc7c080-da5f-11ea-9e2c-d591c8549a79.jpg)
+
+![IMG_0716-3](https://user-images.githubusercontent.com/459464/89734960-6d605700-da5f-11ea-813d-5e313c697993.jpg)
