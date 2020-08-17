@@ -29,7 +29,7 @@ Recording in the SAE studios, Berlin (15.11.1917):
 
 -----
 
-Miscallenous picks (2018-2019): 
+Miscallenous picks (2017-2019): 
 ![20170705_172840](https://user-images.githubusercontent.com/459464/89734949-689ba300-da5f-11ea-94aa-36257ec32482.jpg)
 After 'The Voice of Germany' in public sesion, Berlin, Studio Adlershof (05.07.2017)
 
@@ -62,8 +62,6 @@ In the streets of Berlin (April/May 2020):
 
 ![2020_04_10 - MacVie by J  Bennecke - 215 neu 2](https://user-images.githubusercontent.com/459464/89734940-633e5880-da5f-11ea-8834-8c1bbd246b41.jpg)
 
-![Sitzen auf Gras 2](https://user-images.githubusercontent.com/459464/89734965-6f2a1a80-da5f-11ea-9e4b-972963e107ae.jpg)
-
 ![2020_04_10 - MacVie by J  Bennecke - 226](https://user-images.githubusercontent.com/459464/89734942-646f8580-da5f-11ea-8bb8-2ac0117d5231.JPG)
 
 ![2020_04_10 - MacVie by J  Bennecke - 381 - 04--](https://user-images.githubusercontent.com/459464/89734944-66394900-da5f-11ea-8a53-b79e1b65ee8e.JPG)
@@ -77,8 +75,6 @@ In the streets of Berlin (April/May 2020):
 ![IMG_0464-1](https://user-images.githubusercontent.com/459464/89734956-6c2f2a00-da5f-11ea-9fbb-1a720e45021b.jpg)
 
 ![IMG_0647-4-](https://user-images.githubusercontent.com/459464/89734957-6c2f2a00-da5f-11ea-9966-1e3a2ec3f08d.JPG)
-
-![IMG_0702-1](https://user-images.githubusercontent.com/459464/89734959-6cc7c080-da5f-11ea-9e2c-d591c8549a79.jpg)
 
 ![IMG_0716-3](https://user-images.githubusercontent.com/459464/89734960-6d605700-da5f-11ea-813d-5e313c697993.jpg)
 
