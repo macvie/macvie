@@ -1,7 +1,7 @@
 
 +++
 date = "2020-08-15T06:47:55+02:00"
-title = "Sacre Coeur" (TINA DICO, interpretation)"
+title = "Sacre Coeur (TINA DICO, interpretation)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
