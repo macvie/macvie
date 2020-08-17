@@ -42,8 +42,12 @@ Testing guitars in the music shop 'Tryton', Kraków, Poland (12.09.2018)
 ![IMG_7029](https://user-images.githubusercontent.com/459464/89734961-6df8ed80-da5f-11ea-9d4e-7a76bf6e6588.JPG)
 Live at 'Soleil du Sud, Berlin Wedding (01.02.2019)
 
+-----
+
+Live at 'WohnziKonzi' #5, Berlin (21.09.2019):
 ![WZK#5_21 09 2019](https://user-images.githubusercontent.com/459464/89734966-6fc2b100-da5f-11ea-9692-090a93828d8c.jpg)
-Live at 'WohnziKonzi' #5, Berlin (21.09.2019)
+
+![MacVie WZK 5 - 20-](https://user-images.githubusercontent.com/26723820/90421034-14c13780-e0b9-11ea-8378-ebe710171ac7.JPG)
 
 -----
 
