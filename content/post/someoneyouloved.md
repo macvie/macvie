@@ -4,7 +4,7 @@ title = "Someone you loved (L. Capaldi, interpretation)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
-Description = "MACVIE, Someone you loved  ǀ  L. Capaldi interpretation, ft. Katharina, 'MTC session', Berlin, 09.08.2019"
+Description = "MACVIE, Someone you loved  ǀ  L. Capaldi interpretation, ft. Katharina Schulz, 'MTC session', Berlin, 09.08.2019"
 +++
 
 
