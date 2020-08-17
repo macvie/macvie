@@ -5,7 +5,7 @@ title = "Sacre Coeur (TINA DICO, interpretation)"
 menu = "main"
 Categories = ["audio"]
 Tags = ["english"]
-Description = "MACVIE, Sacre Coeur  ǀ  TINA DICO, interpretation, ft. K. Schulz, Berlin, 15.08.2020"
+Description = "MACVIE, Sacre Coeur  ǀ  TINA DICO, interpretation, ft. Katharina Schulz, Berlin, 15.08.2020"
 +++
 
 
