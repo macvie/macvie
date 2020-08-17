@@ -10,9 +10,11 @@ date = "2020-08-08T19:21:58+02:00"
 
 
 -----
-
-![20160705_171102-03](https://user-images.githubusercontent.com/459464/89734948-68030c80-da5f-11ea-8301-54d173654d24.JPG)
 'Smögen session', Smögen, west coast Sweden, 05.07.2016  
+![20160705_171102-03](https://user-images.githubusercontent.com/459464/89734948-68030c80-da5f-11ea-8301-54d173654d24.JPG)
+
+![Macvie eu 02](https://user-images.githubusercontent.com/459464/89734963-6e918400-da5f-11ea-9a83-f55bc33456f8.jpg)
+
 
 ![20171115_215852](https://user-images.githubusercontent.com/459464/89734950-69343980-da5f-11ea-9470-8fdbd27de507.jpg)
 Recording in the SAE studios, Berlin, 15.11.1917 
@@ -52,8 +54,6 @@ Live at 'Soleil du Sud, Berlin Wedding, 01.02.2019
 
 ![IMG-20181009-WA0004](https://user-images.githubusercontent.com/459464/89734962-6e918400-da5f-11ea-9eed-f432b3eefa30.jpg)
 Testing guitars in the music shop 'Tryton', Kraków, Poland, 12.09.2018 
-
-![Macvie eu 02](https://user-images.githubusercontent.com/459464/89734963-6e918400-da5f-11ea-9a83-f55bc33456f8.jpg)
 
 
 ![Sitzen auf Gras 2](https://user-images.githubusercontent.com/459464/89734965-6f2a1a80-da5f-11ea-9e4b-972963e107ae.jpg)
