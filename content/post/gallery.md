@@ -10,6 +10,12 @@ date = "2020-08-08T19:21:58+02:00"
 
 
 -----
+
+
+![Concert 2015-01-30 - 7](https://user-images.githubusercontent.com/459464/89734954-6a656680-da5f-11ea-9bbf-0907666cedaa.jpg)
+JM/Kato home concert, 30.01.2015
+
+
 'Smögen session', Smögen, west coast Sweden, 05.07.2016  
 ![20160705_171102-03](https://user-images.githubusercontent.com/459464/89734948-68030c80-da5f-11ea-8301-54d173654d24.JPG)
 ![Macvie eu 02](https://user-images.githubusercontent.com/459464/89734963-6e918400-da5f-11ea-9a83-f55bc33456f8.jpg)
@@ -25,12 +31,10 @@ After 'The Voice of Germany' in public sesion, Berlin, Studio Adlershof, 05.07.2
 
 
 ![20180731_125702](https://user-images.githubusercontent.com/459464/89734952-69ccd000-da5f-11ea-9e04-b178dac2cfac.jpg)
-
+In the forest of the Baltic, 31.07.2018
 
 ![92604836_2688231814633250_4387282562851012608_n](https://user-images.githubusercontent.com/459464/89734953-6a656680-da5f-11ea-81d9-c87152be99c5.jpg)
 
-
-![Concert 2015-01-30 - 7](https://user-images.githubusercontent.com/459464/89734954-6a656680-da5f-11ea-9bbf-0907666cedaa.jpg)
 
 
 ![graue Wand sitzend3](https://user-images.githubusercontent.com/459464/89734955-6afdfd00-da5f-11ea-8cb2-764662e985b5.jpg)
