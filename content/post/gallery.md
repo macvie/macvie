@@ -83,3 +83,7 @@ Some fun images (August 2020):
 ![IMG-20200808-WA0001](https://user-images.githubusercontent.com/26723820/90413302-92337a80-e0ae-11ea-9507-df2769df915a.jpg)
 
 ![IMG-20200808-WA0000](https://user-images.githubusercontent.com/26723820/90414277-dc692b80-e0af-11ea-86cb-3442aeacde8f.jpg)
+
+![IMG-20200808-WA0004](https://user-images.githubusercontent.com/26723820/90420765-ad0aec80-e0b8-11ea-97e4-f902a1947bc8.jpg)
+
+
