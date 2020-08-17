@@ -51,7 +51,7 @@ Live at 'WohnziKonzi' #5, Berlin, 21.09.2019
 
 -----
 
-In the streets of Berlin with guitar. April/May 2020
+In the streets of Berlin with guitar, April/May 2020
 ![2020_04_10 - MacVie by J  Bennecke - 46](https://user-images.githubusercontent.com/459464/89734938-5f123b00-da5f-11ea-92b6-3a28462d92eb.JPG)
 
 ![2020_04_10 - MacVie by J  Bennecke - 215 neu 2](https://user-images.githubusercontent.com/459464/89734940-633e5880-da5f-11ea-8834-8c1bbd246b41.jpg)
