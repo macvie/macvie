@@ -12,12 +12,13 @@ date = "2020-08-08T19:21:58+02:00"
 -----
 'Smögen session', Smögen, west coast Sweden, 05.07.2016  
 ![20160705_171102-03](https://user-images.githubusercontent.com/459464/89734948-68030c80-da5f-11ea-8301-54d173654d24.JPG)
-
 ![Macvie eu 02](https://user-images.githubusercontent.com/459464/89734963-6e918400-da5f-11ea-9a83-f55bc33456f8.jpg)
+
 
 
 ![20171115_215852](https://user-images.githubusercontent.com/459464/89734950-69343980-da5f-11ea-9470-8fdbd27de507.jpg)
 Recording in the SAE studios, Berlin, 15.11.1917 
+
 
 ![20170705_172840](https://user-images.githubusercontent.com/459464/89734949-689ba300-da5f-11ea-94aa-36257ec32482.jpg)
 After 'The Voice of Germany' in public sesion, Berlin, Studio Adlershof, 05.07.2017
