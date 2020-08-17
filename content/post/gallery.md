@@ -14,6 +14,9 @@ date = "2020-08-08T19:21:58+02:00"
 ![20160705_171102-03](https://user-images.githubusercontent.com/459464/89734948-68030c80-da5f-11ea-8301-54d173654d24.JPG)
 'Smögen session', Smögen, west coast Sweden, 05.07.2016  
 
+![20171115_215852](https://user-images.githubusercontent.com/459464/89734950-69343980-da5f-11ea-9470-8fdbd27de507.jpg)
+Recording in the SAE studios, Berlin, 15.11.1917 
+
 ![2020_04_10 - MacVie by J  Bennecke - 46](https://user-images.githubusercontent.com/459464/89734938-5f123b00-da5f-11ea-92b6-3a28462d92eb.JPG)
 In the streets of Berlin with guitar
 
@@ -37,9 +40,6 @@ In the streets of Berlin with guitar
 
 ![20170705_172840](https://user-images.githubusercontent.com/459464/89734949-689ba300-da5f-11ea-94aa-36257ec32482.jpg)
 After 'The Voice of Germany' in public sesion, Berlin, Studio Adlershof, 05.07.2017
-
-![20171115_215852](https://user-images.githubusercontent.com/459464/89734950-69343980-da5f-11ea-9470-8fdbd27de507.jpg)
-Recording in the SAE studios, Berlin 
 
 ![20171115_221411](https://user-images.githubusercontent.com/459464/89734951-69ccd000-da5f-11ea-9e38-58c7a123c92d.jpg)
 
