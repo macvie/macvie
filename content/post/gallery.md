@@ -70,11 +70,7 @@ In the streets of Berlin (April/May 2020):
 
 ![92604836_2688231814633250_4387282562851012608_n](https://user-images.githubusercontent.com/459464/89734953-6a656680-da5f-11ea-81d9-c87152be99c5.jpg)
 
-![graue Wand sitzend3](https://user-images.githubusercontent.com/459464/89734955-6afdfd00-da5f-11ea-8cb2-764662e985b5.jpg)
-
 ![IMG_0464-1](https://user-images.githubusercontent.com/459464/89734956-6c2f2a00-da5f-11ea-9fbb-1a720e45021b.jpg)
-
-![IMG_0647-4-](https://user-images.githubusercontent.com/459464/89734957-6c2f2a00-da5f-11ea-9966-1e3a2ec3f08d.JPG)
 
 ![IMG_0716-3](https://user-images.githubusercontent.com/459464/89734960-6d605700-da5f-11ea-813d-5e313c697993.jpg)
 
