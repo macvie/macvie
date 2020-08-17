@@ -25,6 +25,7 @@ Recording in the SAE studios, Berlin, 15.11.1917
 ![20171115_215852](https://user-images.githubusercontent.com/459464/89734950-69343980-da5f-11ea-9470-8fdbd27de507.jpg)
 ![20171115_221411](https://user-images.githubusercontent.com/459464/89734951-69ccd000-da5f-11ea-9e38-58c7a123c92d.jpg)
 
+
 ![20170705_172840](https://user-images.githubusercontent.com/459464/89734949-689ba300-da5f-11ea-94aa-36257ec32482.jpg)
 After 'The Voice of Germany' in public sesion, Berlin, Studio Adlershof, 05.07.2017
 
@@ -62,9 +63,9 @@ Testing guitars in the music shop 'Tryton', Kraków, Poland, 12.09.2018
 ![WZK#5_21 09 2019](https://user-images.githubusercontent.com/459464/89734966-6fc2b100-da5f-11ea-9692-090a93828d8c.jpg)
 Live at 'WohnziKonzi' #5, Berlin, 21.09.2019
 
-![2020_04_10 - MacVie by J  Bennecke - 686 Nordbahnhof](https://user-images.githubusercontent.com/459464/89734945-66d1df80-da5f-11ea-814f-65e3c80c7142.jpg)
-'Corona session', Nordbahnhof Berlin, 10.04.2020 
 
+'Corona session', Nordbahnhof Berlin, 10.04.2020 
+![2020_04_10 - MacVie by J  Bennecke - 686 Nordbahnhof](https://user-images.githubusercontent.com/459464/89734945-66d1df80-da5f-11ea-814f-65e3c80c7142.jpg)
 ![2020_04_10 - MacVie by J  Bennecke - 771](https://user-images.githubusercontent.com/459464/89734946-676a7600-da5f-11ea-8934-4e93098eae43.JPG)
 
 
