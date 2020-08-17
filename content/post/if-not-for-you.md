@@ -11,6 +11,15 @@ Description = "MACVIE, If not for you  ǀ  original, ft. akki on guitar, Wohnzik
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q5VxnLvQR6k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+I don’t wanna gooooooo… this road
+I don’t wanna take this turn in life without you
+
+Early in life, you found me and hit me hard
+Just few dates and quickly love was born and done
+Then I made my odyssey, though you followed me all the way
+Don’t be angry, please, I’m glad for what you did
+
+
 <pre>
 I don’t wanna gooooooo… this road
 I don’t wanna take this turn in life without you
