@@ -56,9 +56,6 @@ Live at 'Soleil du Sud, Berlin Wedding, 01.02.2019
 Testing guitars in the music shop 'Tryton', Kraków, Poland, 12.09.2018 
 
 
-![Sitzen auf Gras 2](https://user-images.githubusercontent.com/459464/89734965-6f2a1a80-da5f-11ea-9e4b-972963e107ae.jpg)
-
-
 ![WZK#5_21 09 2019](https://user-images.githubusercontent.com/459464/89734966-6fc2b100-da5f-11ea-9692-090a93828d8c.jpg)
 Live at 'WohnziKonzi' #5, Berlin, 21.09.2019
 
@@ -72,6 +69,8 @@ In the streets of Berlin with guitar. April 2020
 ![2020_04_10 - MacVie by J  Bennecke - 46](https://user-images.githubusercontent.com/459464/89734938-5f123b00-da5f-11ea-92b6-3a28462d92eb.JPG)
 
 ![2020_04_10 - MacVie by J  Bennecke - 215 neu 2](https://user-images.githubusercontent.com/459464/89734940-633e5880-da5f-11ea-8834-8c1bbd246b41.jpg)
+
+![Sitzen auf Gras 2](https://user-images.githubusercontent.com/459464/89734965-6f2a1a80-da5f-11ea-9e4b-972963e107ae.jpg)
 
 ![2020_04_10 - MacVie by J  Bennecke - 226](https://user-images.githubusercontent.com/459464/89734942-646f8580-da5f-11ea-8bb8-2ac0117d5231.JPG)
 
