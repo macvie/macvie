@@ -29,12 +29,6 @@ In the streets of Berlin with guitar
 ![2020_04_10 - MacVie by J  Bennecke - 381 - 04--](https://user-images.githubusercontent.com/459464/89734944-66394900-da5f-11ea-8a53-b79e1b65ee8e.JPG)
 
 
-![2020_04_10 - MacVie by J  Bennecke - 686 Nordbahnhof](https://user-images.githubusercontent.com/459464/89734945-66d1df80-da5f-11ea-814f-65e3c80c7142.jpg)
-'Corona session', Nordbahnhof Berlin, 10.04.2020 
-
-![2020_04_10 - MacVie by J  Bennecke - 771](https://user-images.githubusercontent.com/459464/89734946-676a7600-da5f-11ea-8934-4e93098eae43.JPG)
-
-
 ![2020_04_10 - MacVie by J  Bennecke - Mauer Stäbe 1 - 02](https://user-images.githubusercontent.com/459464/89734947-676a7600-da5f-11ea-8c3c-2e9bb8b55f00.jpg)
 
 
@@ -82,4 +76,9 @@ Testing guitars in the music shop 'Tryton', Kraków, Poland, 12.09.2018
 
 ![WZK#5_21 09 2019](https://user-images.githubusercontent.com/459464/89734966-6fc2b100-da5f-11ea-9692-090a93828d8c.jpg)
 Live at 'WohnziKonzi' #5, Berlin, 21.09.2019
+
+![2020_04_10 - MacVie by J  Bennecke - 686 Nordbahnhof](https://user-images.githubusercontent.com/459464/89734945-66d1df80-da5f-11ea-814f-65e3c80c7142.jpg)
+'Corona session', Nordbahnhof Berlin, 10.04.2020 
+
+![2020_04_10 - MacVie by J  Bennecke - 771](https://user-images.githubusercontent.com/459464/89734946-676a7600-da5f-11ea-8934-4e93098eae43.JPG)
 
