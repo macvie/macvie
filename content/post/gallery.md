@@ -75,3 +75,8 @@ In the streets of Berlin with guitar, April/May 2020
 ![IMG_0702-1](https://user-images.githubusercontent.com/459464/89734959-6cc7c080-da5f-11ea-9e2c-d591c8549a79.jpg)
 
 ![IMG_0716-3](https://user-images.githubusercontent.com/459464/89734960-6d605700-da5f-11ea-813d-5e313c697993.jpg)
+
+-----
+
+![IMG-20200808-WA0001](https://user-images.githubusercontent.com/26723820/90413302-92337a80-e0ae-11ea-9507-df2769df915a.jpg)
+
