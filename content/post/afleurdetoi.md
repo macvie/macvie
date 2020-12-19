@@ -5,7 +5,7 @@ title = "À fleur de toi (live at 'Rote Beete')"
 menu = "main"
 Categories = ["video"]
 Tags = ["english"]
-Description = "MACVIE, À fleir de toi  ǀ  Slimane interpretation, 'Rote Beete' jam session #5, Centre Français de Berlin, 14.09.2019"
+Description = "MACVIE, À fleur de toi  ǀ  Slimane interpretation, 'Rote Beete' jam session #5, Centre Français de Berlin, 14.09.2019"
 +++
 
 
